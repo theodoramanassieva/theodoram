@@ -9,34 +9,32 @@ Category,Level1,Level2,Level3,Level4,Budget,,GovXFer,State,Local,Total
 ,Visitor Services,Commerial tours,LGBT Pride of Parliament Tour (5 times per year),25-39yrs,100,,,,,100
 ,Visitor Services,Commerial tours,Question Time Talk QTT (1 per week during democratic),Disabled/access required,100,,,,,100
 ,Visitor Services,Events,Open House (2 days per year),Members & their staff,100,,,,,100
-,Visitor Services,Events,London History Day (1 day per year),18-24yrs (students),100,,,,,100
-,Visitor Services,Events,Craft Week (1 event per year),Domestic UK,100,,,,,100
-,Visitor Services,Events,Museums at Night (1 night per year),18-24yrs,100,,,,,100
+,Visitor Services,Events,London History Day (1 day per year),Domestic UK,100,,,,,100
+,Visitor Services,Events,Craft Week (1 event per year),18-24yrs (students),100,,,,,100
+,Visitor Services,Events,Museums at Night (1 night per year),16-19yrs,100,,,,,100
 ,Visitor Services,Events,Family Festival (August) ,14-16yrs,100,,,,,100
 ,Visitor Services,Events,Kids in Museums (1 day),11-14yrs,100,,,,,100
 ,Visitor Services,Events,Recruitment Open Day (1 event),7-11yrs,100,,,,,100
-,Visitor Services,Events,Pop up talks and tours (variable and themed) ,16-19yrs,100,,,,,100
-,Visitor Services,Events,Disabled access day (1 per year) ,5-7yrs,100,,,,,100
-,Visitor Services,Events,Audio tours (c 114 days per year) ,0-5yrs,1000,,,,,1000
-,Education,BAU direct on site public services,Tours,Family,50,,,,,50
-,Education,BAU direct on site public services,Tours,BAME,50,,,,,50
-,Education,BAU direct on site public services,Tours,Women,50,,,,,50
-,Education,BAU direct on site public services,Tours,HoC/HoL staff,50,,,,,50
-,Education,BAU direct on site public services,Tours,70+,50,,,,,50
-,Education,BAU direct on site public services,Tours,55-69yrs,50,,,,,50
-,Education,BAU direct on site public services,Tours,40-55yrs,50,,,,,50
-,Education,BAU direct on site public services,Tours,25-39yrs,50,,,,,50
-,Education,BAU direct on site public services,Tours,Disabled/access required,50,,,,,50
-,Education,BAU direct on site public services,Tours,Members & their staff,50,,,,,50
-,Education,BAU direct on site public services,Tours,18-24yrs (students),50,,,,,50
-,Education,BAU direct on site public services,Tours,Domestic UK,50,,,,,50
-,Education,BAU direct on site public services,Tours,18-24yrs,50,,,,,50
-,Education,BAU direct on site public services,Tours,14-16yrs,50,,,,,50
-,Education,BAU direct on site public services,Tours,11-14yrs,50,,,,,50
-,Education,BAU direct on site public services,Tours,7-11yrs,50,,,,,50
-,Education,BAU direct on site public services,Tours,16-19yrs,50,,,,,50
-,Education,BAU direct on site public services,Tours,5-7yrs,50,,,,,50
-,Education,BAU direct on site public services,Tours,0-5yrs,50,,,,,50
+,Visitor Services,Events,Pop up talks and tours (variable and themed) ,5-7yrs,100,,,,,100
+,Visitor Services,Events,Disabled access day (1 per year) ,0-5yrs,100,,,,,100
+,Education,BAU direct on site public services,School visits,Family,0,,,,,0
+,Education,BAU direct on site public services,School visits,BAME,0,,,,,0
+,Education,BAU direct on site public services,School visits,Women,0,,,,,0
+,Education,BAU direct on site public services,School visits,HoC/HoL staff,0,,,,,0
+,Education,BAU direct on site public services,School visits,70+,0,,,,,0
+,Education,BAU direct on site public services,School visits,55-69yrs,0,,,,,0
+,Education,BAU direct on site public services,School visits,40-55yrs,0,,,,,0
+,Education,BAU direct on site public services,School visits,25-39yrs,0,,,,,0
+,Education,BAU direct on site public services,School visits,Disabled/access required,0,,,,,0
+,Education,BAU direct on site public services,School visits,Members & their staff,0,,,,,0
+,Education,BAU direct on site public services,School visits,Domestic UK,0,,,,,0
+,Education,BAU direct on site public services,School visits,18-24yrs (students),0,,,,,0
+,Education,BAU direct on site public services,School visits,16-19yrs,14000,,,,,14000
+,Education,BAU direct on site public services,School visits,14-16yrs,4500,,,,,4500
+,Education,BAU direct on site public services,School visits,11-14yrs,11000,,,,,11000
+,Education,BAU direct on site public services,School visits,7-11yrs,47500,,,,,4700
+,Education,BAU direct on site public services,School visits,5-7yrs,650,,,,,650
+,Education,BAU direct on site public services,School visits,0-5yrs,0,,,,,0
 ,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",Family,10,,,,,10
 ,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",BAME,10,,,,,10
 ,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",Women,10,,,,,10
@@ -47,13 +45,12 @@ Category,Level1,Level2,Level3,Level4,Budget,,GovXFer,State,Local,Total
 ,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",25-39yrs,10,,,,,10
 ,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",Disabled/access required,10,,,,,10
 ,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",Members & their staff,10,,,,,10
-,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",18-24yrs (students),10,,,,,10
 ,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",Domestic UK,10,,,,,10
-,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",18-24yrs,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",18-24yrs (students),10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",16-19yrs,10,,,,,10
 ,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",14-16yrs,10,,,,,10
 ,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",11-14yrs,10,,,,,10
 ,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",7-11yrs,10,,,,,10
-,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",16-19yrs,10,,,,,10
 ,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",5-7yrs,10,,,,,10
 ,Education,"Public engagement/learning projects and resources, for schools and general public","Education Outreach: 3663 school-aged children reached each month; 26,000 school-aged childdren reached each month through our loan box scheme; 1400 school-aged children reached through Skype the Speaker; 500 schools take part in our Speaker's School Council Awards; 120 young people reached through the Speaker's Variety Club visits",0-5yrs,10,,,,,10
 ,Projects Team,BAU on site: excluding tours,,Family,2025,,,,,2025

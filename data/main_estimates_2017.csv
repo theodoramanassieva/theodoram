@@ -18,25 +18,63 @@ Category,Level1,Level2,Level3,Level4,Budget,,GovXFer,State,Local,Total
 ,Visitor Services,Events,Pop up talks and tours (variable and themed) ,16-19yrs,100,,,,,100
 ,Visitor Services,Events,Disabled access day (1 per year) ,5-7yrs,100,,,,,100
 ,Visitor Services,Events,Audio tours (c 114 days per year) ,0-5yrs,1000,,,,,1000
-,Education,BAU on site: excluding tours,,Family,999,,,,,999
-,Education,BAU on site: excluding tours,,BAME,1053,,,,,1053
-,Education,BAU on site: excluding tours,,Women,1107,,,,,1107
-,Education,BAU on site: excluding tours,,HoC/HoL staff,1161,,,,,1161
-,Education,BAU on site: excluding tours,,70+,1215,,,,,1215
-,Education,BAU on site: excluding tours,,55-69yrs,1269,,,,,1269
-,Education,BAU on site: excluding tours,,40-55yrs,1323,,,,,1323
-,Education,BAU on site: excluding tours,,25-39yrs,1377,,,,,1377
-,Education,BAU on site: excluding tours,,Disabled/access required,1431,,,,,1431
-,Education,BAU on site: excluding tours,,Members & their staff,1485,,,,,1485
-,Education,BAU on site: excluding tours,,18-24yrs (students),1539,,,,,1539
-,Education,BAU on site: excluding tours,,Domestic UK,1593,,,,,1593
-,Education,BAU on site: excluding tours,,18-24yrs,1647,,,,,1647
-,Education,BAU on site: excluding tours,,14-16yrs,1701,,,,,1701
-,Education,BAU on site: excluding tours,,11-14yrs,1755,,,,,1755
-,Education,BAU on site: excluding tours,,7-11yrs,1809,,,,,1809
-,Education,BAU on site: excluding tours,,16-19yrs,1863,,,,,1863
-,Education,BAU on site: excluding tours,,5-7yrs,1917,,,,,1917
-,Education,BAU on site: excluding tours,,0-5yrs,1971,,,,,1971
+,Education,BAU direct on site public services,,Family,999,,,,,999
+,Education,BAU direct on site public services,,BAME,1053,,,,,1053
+,Education,BAU direct on site public services,,Women,1107,,,,,1107
+,Education,BAU direct on site public services,,HoC/HoL staff,1161,,,,,1161
+,Education,BAU direct on site public services,,70+,1215,,,,,1215
+,Education,BAU direct on site public services,,55-69yrs,1269,,,,,1269
+,Education,BAU direct on site public services,,40-55yrs,1323,,,,,1323
+,Education,BAU direct on site public services,,25-39yrs,1377,,,,,1377
+,Education,BAU direct on site public services,,Disabled/access required,1431,,,,,1431
+,Education,BAU direct on site public services,,Members & their staff,1485,,,,,1485
+,Education,BAU direct on site public services,,18-24yrs (students),1539,,,,,1539
+,Education,BAU direct on site public services,,Domestic UK,1593,,,,,1593
+,Education,BAU direct on site public services,,18-24yrs,1647,,,,,1647
+,Education,BAU direct on site public services,,14-16yrs,1701,,,,,1701
+,Education,BAU direct on site public services,,11-14yrs,1755,,,,,1755
+,Education,BAU direct on site public services,,7-11yrs,1809,,,,,1809
+,Education,BAU direct on site public services,,16-19yrs,1863,,,,,1863
+,Education,BAU direct on site public services,,5-7yrs,1917,,,,,1917
+,Education,BAU direct on site public services,,0-5yrs,1971,,,,,1971
+,Education,"Public engagement/learning projects and resources, for schools and general public",,Family,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,BAME,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,Women,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,HoC/HoL staff,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,70+,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,55-69yrs,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,40-55yrs,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,25-39yrs,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,Disabled/access required,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,Members & their staff,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,18-24yrs (students),10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,Domestic UK,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,18-24yrs,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,14-16yrs,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,11-14yrs,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,7-11yrs,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,16-19yrs,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,5-7yrs,10,,,,,10
+,Education,"Public engagement/learning projects and resources, for schools and general public",,0-5yrs,10,,,,,10
+,Education,BAU direct off site public services,,Family,20,,,,,20
+,Education,BAU direct off site public services,,BAME,20,,,,,20
+,Education,BAU direct off site public services,,Women,20,,,,,20
+,Education,BAU direct off site public services,,HoC/HoL staff,20,,,,,20
+,Education,BAU direct off site public services,,70+,20,,,,,20
+,Education,BAU direct off site public services,,55-69yrs,20,,,,,20
+,Education,BAU direct off site public services,,40-55yrs,20,,,,,20
+,Education,BAU direct off site public services,,25-39yrs,20,,,,,20
+,Education,BAU direct off site public services,,Disabled/access required,20,,,,,20
+,Education,BAU direct off site public services,,Members & their staff,20,,,,,20
+,Education,BAU direct off site public services,,18-24yrs (students),20,,,,,20
+,Education,BAU direct off site public services,,Domestic UK,20,,,,,20
+,Education,BAU direct off site public services,,18-24yrs,20,,,,,20
+,Education,BAU direct off site public services,,14-16yrs,20,,,,,20
+,Education,BAU direct off site public services,,11-14yrs,20,,,,,20
+,Education,BAU direct off site public services,,7-11yrs,20,,,,,20
+,Education,BAU direct off site public services,,16-19yrs,20,,,,,20
+,Education,BAU direct off site public services,,5-7yrs,20,,,,,20
+,Education,BAU direct off site public services,,0-5yrs,20,,,,,20
 ,Projects Team,BAU on site: excluding tours,,Family,2025,,,,,2025
 ,Projects Team,BAU on site: excluding tours,,BAME,2079,,,,,2079
 ,Projects Team,BAU on site: excluding tours,,Women,2133,,,,,2133

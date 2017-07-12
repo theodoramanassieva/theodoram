@@ -1,22 +1,23 @@
 Category,Level1,Level2,Level3,Level4,Budget,,GovXFer,State,Local,Total
-,Visitor Services,Commerial tours,Audio tours (c 114 days per year) ,Family,100,,,,,100
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),BAME,400,,,,,400
-,Visitor Services,Commerial tours,Family Tour (c. 50 days pa - 50 people per day) ,Women,250,,,,,250
-,Visitor Services,Commerial tours,French/Italian/German/Spanish Tours,HoC/HoL staff,330,,,,,330
+,Visitor Services,Commerial tours,Audio tours (c 114 days per year) ,Family,0,,,,,100
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),BAME,0,,,,,100
+,Visitor Services,Commerial tours,Family Tour (c. 50 days pa - 50 people per day) ,Women,0,,,,,100
+,Visitor Services,Commerial tours,French/Italian/German/Spanish Tours,HoC/HoL staff,100,,,,,100
 ,Visitor Services,Commerial tours,Art tours - PCH and Royalty and Splendour ,70+,100,,,,,100
-,Visitor Services,Commerial tours,Tactile tours (10 per year) ,55-69yrs,400,,,,,400
-,Visitor Services,Commerial tours,BSL screen player Tour (114 days per year),40-55yrs,250,,,,,250
-,Visitor Services,Commerial tours,LGBT Pride of Parliament Tour (5 times per year),25-39yrs,330,,,,,330
-,Visitor Services,Commerial tours,Question Time Talk QTT (1 per week during democratic),Disabled/access required,405,,,,,405
-,Visitor Services,Events,Open House (2 days per year),Family,100,,,,,100
-,Visitor Services,Events,London History Day (1 day per year),BAME,400,,,,,400
-,Visitor Services,Events,Craft Week (1 event per year),Women,250,,,,,250
-,Visitor Services,Events,Museums at Night (1 night per year),HoC/HoL staff,330,,,,,330
-,Visitor Services,Events,Family Festival (August) ,70+,100,,,,,100
-,Visitor Services,Events,Kids in Museums (1 day),55-69yrs,400,,,,,400
-,Visitor Services,Events,Recruitment Open Day (1 event),40-55yrs,250,,,,,250
-,Visitor Services,Events,Pop up talks and tours (variable and themed) ,25-39yrs,330,,,,,330
-,Visitor Services,Events,Disabled access day (1 per year) ,Disabled/access required,405,,,,,405
+,Visitor Services,Commerial tours,Tactile tours (10 per year) ,55-69yrs,100,,,,,100
+,Visitor Services,Commerial tours,BSL screen player Tour (114 days per year),40-55yrs,100,,,,,100
+,Visitor Services,Commerial tours,LGBT Pride of Parliament Tour (5 times per year),25-39yrs,100,,,,,100
+,Visitor Services,Commerial tours,Question Time Talk QTT (1 per week during democratic),Disabled/access required,100,,,,,100
+,Visitor Services,Events,Open House (2 days per year),Members & their staff,100,,,,,100
+,Visitor Services,Events,London History Day (1 day per year),18-24yrs (students),100,,,,,100
+,Visitor Services,Events,Craft Week (1 event per year),Domestic UK,100,,,,,100
+,Visitor Services,Events,Museums at Night (1 night per year),18-24yrs,100,,,,,100
+,Visitor Services,Events,Family Festival (August) ,14-16yrs,100,,,,,100
+,Visitor Services,Events,Kids in Museums (1 day),11-14yrs,100,,,,,100
+,Visitor Services,Events,Recruitment Open Day (1 event),7-11yrs,100,,,,,100
+,Visitor Services,Events,Pop up talks and tours (variable and themed) ,16-19yrs,100,,,,,100
+,Visitor Services,Events,Disabled access day (1 per year) ,5-7yrs,100,,,,,100
+,Visitor Services,Events,Audio tours (c 114 days per year) ,0-5yrs,1000,,,,,1000
 ,Education,BAU on site: excluding tours,,Family,999,,,,,999
 ,Education,BAU on site: excluding tours,,BAME,1053,,,,,1053
 ,Education,BAU on site: excluding tours,,Women,1107,,,,,1107

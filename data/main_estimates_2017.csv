@@ -1,7 +1,4 @@
 Category,Level1,Level2,Level3,Level4,Budget,,GovXFer,State,Local,Total
-,Visitor Services,Commerial tours,Audio tours (c 114 days per year) ,Family,0,,,,,0
-,Visitor Services,Commerial tours,Audio tours (c 114 days per year) ,BAME,0,,,,,0
-,Visitor Services,Commerial tours,Audio tours (c 114 days per year) ,Women,0,,,,,0
 ,Visitor Services,Commerial tours,Audio tours (c 114 days per year) ,HoC/HoL staff,100,,,,,100
 ,Visitor Services,Commerial tours,Audio tours (c 114 days per year) ,70+,15000,,,,,15000
 ,Visitor Services,Commerial tours,Audio tours (c 114 days per year) ,55-69yrs,97000,,,,,97000
@@ -15,24 +12,22 @@ Category,Level1,Level2,Level3,Level4,Budget,,GovXFer,State,Local,Total
 ,Visitor Services,Commerial tours,Audio tours (c 114 days per year) ,14-16yrs,10000,,,,,10000
 ,Visitor Services,Commerial tours,Audio tours (c 114 days per year) ,11-14yrs,10000,,,,,10000
 ,Visitor Services,Commerial tours,Audio tours (c 114 days per year) ,7-11yrs,10000,,,,,10000
-,Visitor Services,Commerial tours,Audio tours (c 114 days per year) ,5-7yrs,0,,,,,0
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),Family,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),BAME,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),Women,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),HoC/HoL staff,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),70+,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),55-69yrs,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),40-55yrs,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),25-39yrs,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),Disabled/access required,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),Members & their staff,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),Domestic UK,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),18-24yrs (students),1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),16-19yrs,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),14-16yrs,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),11-14yrs,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),7-11yrs,1,,,,,1
-,Visitor Services,Commerial tours,English guided tours (c 114 days pa),5-7yrs,1,,,,,1
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),Overseas visitors,40,,,,,40
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),BAME,*,,,,,*
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),Women,55,,,,,55
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),70+,12500,,,,,12500
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),55-69yrs,53000,,,,,53000
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),40-55yrs,53000,,,,,53000
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),25-39yrs,53000,,,,,53000
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),Disabled/access required,*,,,,,*
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),Domestic UK,60,,,,,60
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),18-24yrs (students),5000,,,,,5000
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),16-19yrs,5000,,,,,5000
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),14-16yrs,6000,,,,,6000
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),11-14yrs,6000,,,,,6000
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),7-11yrs,6000,,,,,6000
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),5-7yrs,6000,,,,,6000
+,Visitor Services,Commerial tours,English guided tours (c 114 days pa),0-5yrs,400,,,,,400
 ,Visitor Services,Commerial tours,Family Tour (c. 50 days pa - 50 people per day) ,Family,1,,,,,1
 ,Visitor Services,Commerial tours,Family Tour (c. 50 days pa - 50 people per day) ,BAME,1,,,,,1
 ,Visitor Services,Commerial tours,Family Tour (c. 50 days pa - 50 people per day) ,Women,1,,,,,1
